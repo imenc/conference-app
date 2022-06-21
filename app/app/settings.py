@@ -153,7 +153,7 @@ SIMPLE_JWT = {
     'SIGNING_KEY': SECRET_KEY,
     'VERIFYING_KEY': None,
     'AUDIENCE': None,
-    'ISSUER': 'holiday.com',
+    'ISSUER': 'conference.com',
     'JWK_URL': None,
     'LEEWAY': 0,
 

@@ -21,6 +21,6 @@ urlpatterns = [
     path('api/user/', include('user.urls')),
 ]
 
-admin.site.site_header = 'Holiday Site Administration'
-admin.site.index_title = 'Holiday Site Administration'
+admin.site.site_header = 'Conference Site Administration'
+admin.site.index_title = 'Conference Site Administration'
 admin.site.site_title = 'Administrator Page'

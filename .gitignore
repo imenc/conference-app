@@ -365,7 +365,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,windows,macos
 /.idea/.gitignore
-/.idea/holiday-app.iml
+/.idea/conference-app.iml
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
