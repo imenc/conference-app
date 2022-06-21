@@ -23,9 +23,7 @@ Tech stack using in **conference-app** :
 > Note: Firstly install & run docker desktop on host. Git enabled on terminal is a must
 
 ```sh
-git https://github.com/imenc/confer
-
-ence-app.git
+git https://github.com/imenc/conference-app.git
 cd conference-app
 docker-compose build
 docker-compose up
