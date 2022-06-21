@@ -1,2 +1,2 @@
 # conference-app
-Web application for handling connference events
+Web application for handling conference events
