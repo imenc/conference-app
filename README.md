@@ -28,6 +28,11 @@ cd conference-app
 docker-compose build
 docker-compose up
 ```
+> To shutdown the container, after pressing ctrl + C do the following
+
+```shell
+docker-compose down
+```
 
 ## To do list
 - [x] Create docker compose for Apps
