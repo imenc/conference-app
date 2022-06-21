@@ -22,6 +22,8 @@ class UserAdmin(BaseUserAdmin):
                     'is_active',
                     'is_staff',
                     'is_superuser',
+                    "groups",
+                    # "user_permissions",
                 )
             }
         ),
@@ -41,6 +43,10 @@ class UserAdmin(BaseUserAdmin):
                 'is_superuser',
             ),
         }),
+    )
+    filter_horizontal = (
+        "groups",
+        "user_permissions",
     )
 
 
