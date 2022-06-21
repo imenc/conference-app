@@ -1,0 +1,55 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      args:
+        - DEV=true
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/app
+    command: >
+      sh -c "python manage.py migrate &&
+             python manage.py loaddata fixtures/core_provinces.json --app core.Provinces &&
+             python manage.py loaddata fixtures/core_cities.json --app core.Cities &&
+             python manage.py loaddata fixtures/core_districts.json --app core.Districts &&
+             python manage.py loaddata fixtures/core_sub_districts.json --app core.Subdistricts &&
+             python manage.py runserver 0.0.0.0:8000"
+    environment:
+#      - DB_HOST=host.docker.internal
+#      - DB_HOST=202.91.10.67
+      - DB_HOST=db
+      - DB_NAME=holiday
+      - DB_USER=root
+      - DB_PASS=rahasia
+      - DB_PORT='3066'
+      - DEBUG=1
+      - ALLOWED_HOSTS=127.0.0.1 localhost
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: mysql:5.7
+    volumes:
+      - dev-db-data:/var/lib/mysql
+    restart: always
+    environment:
+      - MYSQL_DATABASE=holiday
+      - MYSQL_ROOT_USER=root
+      - MYSQL_ROOT_PASSWORD=rahasia
+      - MYSQL_USER=developer
+      - MYSQL_PASSWORD=rahasia
+    healthcheck:
+      test: [ "CMD", "mysqladmin" ,"ping", "-h", "localhost", "-udeveloper", "-prahasia"  ]
+      timeout: 10s
+      retries: 10
+    ports:
+      - '3066:3066'
+    expose:
+      - '3066'
+
+volumes:
+  dev-db-data:

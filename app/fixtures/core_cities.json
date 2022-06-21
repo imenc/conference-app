@@ -1,0 +1,3802 @@
+[
+{
+    "model": "core.cities",
+    "pk": 1,
+    "fields": {
+        "city_name": "PIDIE JAYA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 2,
+    "fields": {
+        "city_name": "SIMEULUE",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 3,
+    "fields": {
+        "city_name": "BIREUEN",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 4,
+    "fields": {
+        "city_name": "ACEH TIMUR",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 5,
+    "fields": {
+        "city_name": "ACEH UTARA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 6,
+    "fields": {
+        "city_name": "PIDIE",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 7,
+    "fields": {
+        "city_name": "ACEH BARAT DAYA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 8,
+    "fields": {
+        "city_name": "GAYO LUES",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 9,
+    "fields": {
+        "city_name": "ACEH SELATAN",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 10,
+    "fields": {
+        "city_name": "ACEH TAMIANG",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 11,
+    "fields": {
+        "city_name": "ACEH BESAR",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 12,
+    "fields": {
+        "city_name": "ACEH TENGGARA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 13,
+    "fields": {
+        "city_name": "BENER MERIAH",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 14,
+    "fields": {
+        "city_name": "ACEH JAYA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 15,
+    "fields": {
+        "city_name": "LHOKSEUMAWE",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 16,
+    "fields": {
+        "city_name": "ACEH BARAT",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 17,
+    "fields": {
+        "city_name": "NAGAN RAYA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 18,
+    "fields": {
+        "city_name": "LANGSA",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 19,
+    "fields": {
+        "city_name": "BANDA ACEH",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 20,
+    "fields": {
+        "city_name": "ACEH SINGKIL",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 21,
+    "fields": {
+        "city_name": "SABANG",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 22,
+    "fields": {
+        "city_name": "ACEH TENGAH",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 23,
+    "fields": {
+        "city_name": "SUBULUSSALAM",
+        "prov_id": 1
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 24,
+    "fields": {
+        "city_name": "NIAS SELATAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 25,
+    "fields": {
+        "city_name": "MANDAILING NATAL",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 26,
+    "fields": {
+        "city_name": "DAIRI",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 27,
+    "fields": {
+        "city_name": "LABUHAN BATU UTARA",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 28,
+    "fields": {
+        "city_name": "TAPANULI UTARA",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 29,
+    "fields": {
+        "city_name": "SIMALUNGUN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 30,
+    "fields": {
+        "city_name": "LANGKAT",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 31,
+    "fields": {
+        "city_name": "SERDANG BEDAGAI",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 32,
+    "fields": {
+        "city_name": "TAPANULI SELATAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 33,
+    "fields": {
+        "city_name": "ASAHAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 34,
+    "fields": {
+        "city_name": "PADANG LAWAS UTARA",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 35,
+    "fields": {
+        "city_name": "PADANG LAWAS",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 36,
+    "fields": {
+        "city_name": "LABUHAN BATU SELATAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 37,
+    "fields": {
+        "city_name": "PADANG SIDEMPUAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 38,
+    "fields": {
+        "city_name": "TOBA SAMOSIR",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 39,
+    "fields": {
+        "city_name": "TAPANULI TENGAH",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 40,
+    "fields": {
+        "city_name": "HUMBANG HASUNDUTAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 41,
+    "fields": {
+        "city_name": "SIBOLGA",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 42,
+    "fields": {
+        "city_name": "BATU BARA",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 43,
+    "fields": {
+        "city_name": "SAMOSIR",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 44,
+    "fields": {
+        "city_name": "PEMATANG SIANTAR",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 45,
+    "fields": {
+        "city_name": "LABUHAN BATU",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 46,
+    "fields": {
+        "city_name": "DELI SERDANG",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 47,
+    "fields": {
+        "city_name": "GUNUNGSITOLI",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 48,
+    "fields": {
+        "city_name": "NIAS UTARA",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 49,
+    "fields": {
+        "city_name": "NIAS",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 50,
+    "fields": {
+        "city_name": "KARO",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 51,
+    "fields": {
+        "city_name": "NIAS BARAT",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 52,
+    "fields": {
+        "city_name": "MEDAN",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 53,
+    "fields": {
+        "city_name": "PAKPAK BHARAT",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 54,
+    "fields": {
+        "city_name": "TEBING TINGGI",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 55,
+    "fields": {
+        "city_name": "BINJAI",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 56,
+    "fields": {
+        "city_name": "TANJUNG BALAI",
+        "prov_id": 2
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 57,
+    "fields": {
+        "city_name": "DHARMASRAYA",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 58,
+    "fields": {
+        "city_name": "SOLOK SELATAN",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 59,
+    "fields": {
+        "city_name": "SIJUNJUNG (SAWAH LUNTO SIJUNJUNG)",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 60,
+    "fields": {
+        "city_name": "PASAMAN BARAT",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 61,
+    "fields": {
+        "city_name": "SOLOK",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 62,
+    "fields": {
+        "city_name": "PASAMAN",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 63,
+    "fields": {
+        "city_name": "PARIAMAN",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 64,
+    "fields": {
+        "city_name": "TANAH DATAR",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 65,
+    "fields": {
+        "city_name": "PADANG PARIAMAN",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 66,
+    "fields": {
+        "city_name": "PESISIR SELATAN",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 67,
+    "fields": {
+        "city_name": "PADANG",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 68,
+    "fields": {
+        "city_name": "SAWAH LUNTO",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 69,
+    "fields": {
+        "city_name": "LIMA PULUH KOTO / KOTA",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 70,
+    "fields": {
+        "city_name": "AGAM",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 71,
+    "fields": {
+        "city_name": "PAYAKUMBUH",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 72,
+    "fields": {
+        "city_name": "BUKITTINGGI",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 73,
+    "fields": {
+        "city_name": "PADANG PANJANG",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 74,
+    "fields": {
+        "city_name": "KEPULAUAN MENTAWAI",
+        "prov_id": 3
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 75,
+    "fields": {
+        "city_name": "INDRAGIRI HILIR",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 76,
+    "fields": {
+        "city_name": "KUANTAN SINGINGI",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 77,
+    "fields": {
+        "city_name": "PELALAWAN",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 78,
+    "fields": {
+        "city_name": "PEKANBARU",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 79,
+    "fields": {
+        "city_name": "ROKAN HILIR",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 80,
+    "fields": {
+        "city_name": "BENGKALIS",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 81,
+    "fields": {
+        "city_name": "INDRAGIRI HULU",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 82,
+    "fields": {
+        "city_name": "ROKAN HULU",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 83,
+    "fields": {
+        "city_name": "KAMPAR",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 84,
+    "fields": {
+        "city_name": "KEPULAUAN MERANTI",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 85,
+    "fields": {
+        "city_name": "DUMAI",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 86,
+    "fields": {
+        "city_name": "SIAK",
+        "prov_id": 4
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 87,
+    "fields": {
+        "city_name": "TEBO",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 88,
+    "fields": {
+        "city_name": "TANJUNG JABUNG BARAT",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 89,
+    "fields": {
+        "city_name": "MUARO JAMBI",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 90,
+    "fields": {
+        "city_name": "KERINCI",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 91,
+    "fields": {
+        "city_name": "MERANGIN",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 92,
+    "fields": {
+        "city_name": "BUNGO",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 93,
+    "fields": {
+        "city_name": "TANJUNG JABUNG TIMUR",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 94,
+    "fields": {
+        "city_name": "SUNGAIPENUH",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 95,
+    "fields": {
+        "city_name": "BATANG HARI",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 96,
+    "fields": {
+        "city_name": "JAMBI",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 97,
+    "fields": {
+        "city_name": "SAROLANGUN",
+        "prov_id": 5
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 98,
+    "fields": {
+        "city_name": "PALEMBANG",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 99,
+    "fields": {
+        "city_name": "LAHAT",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 100,
+    "fields": {
+        "city_name": "OGAN KOMERING ULU TIMUR",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 101,
+    "fields": {
+        "city_name": "MUSI BANYUASIN",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 102,
+    "fields": {
+        "city_name": "PAGAR ALAM",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 103,
+    "fields": {
+        "city_name": "OGAN KOMERING ULU SELATAN",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 104,
+    "fields": {
+        "city_name": "BANYUASIN",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 105,
+    "fields": {
+        "city_name": "MUSI RAWAS",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 106,
+    "fields": {
+        "city_name": "MUARA ENIM",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 107,
+    "fields": {
+        "city_name": "OGAN KOMERING ULU",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 108,
+    "fields": {
+        "city_name": "OGAN KOMERING ILIR",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 109,
+    "fields": {
+        "city_name": "EMPAT LAWANG",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 110,
+    "fields": {
+        "city_name": "LUBUK LINGGAU",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 111,
+    "fields": {
+        "city_name": "PRABUMULIH",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 112,
+    "fields": {
+        "city_name": "OGAN ILIR",
+        "prov_id": 6
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 113,
+    "fields": {
+        "city_name": "BENGKULU TENGAH",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 114,
+    "fields": {
+        "city_name": "REJANG LEBONG",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 115,
+    "fields": {
+        "city_name": "MUKO MUKO",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 116,
+    "fields": {
+        "city_name": "KAUR",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 117,
+    "fields": {
+        "city_name": "BENGKULU UTARA",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 118,
+    "fields": {
+        "city_name": "LEBONG",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 119,
+    "fields": {
+        "city_name": "KEPAHIANG",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 120,
+    "fields": {
+        "city_name": "BENGKULU SELATAN",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 121,
+    "fields": {
+        "city_name": "SELUMA",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 122,
+    "fields": {
+        "city_name": "BENGKULU",
+        "prov_id": 7
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 123,
+    "fields": {
+        "city_name": "LAMPUNG UTARA",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 124,
+    "fields": {
+        "city_name": "WAY KANAN",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 125,
+    "fields": {
+        "city_name": "LAMPUNG TENGAH",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 126,
+    "fields": {
+        "city_name": "MESUJI",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 127,
+    "fields": {
+        "city_name": "PRINGSEWU",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 128,
+    "fields": {
+        "city_name": "LAMPUNG TIMUR",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 129,
+    "fields": {
+        "city_name": "LAMPUNG SELATAN",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 130,
+    "fields": {
+        "city_name": "TULANG BAWANG",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 131,
+    "fields": {
+        "city_name": "TULANG BAWANG BARAT",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 132,
+    "fields": {
+        "city_name": "TANGGAMUS",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 133,
+    "fields": {
+        "city_name": "LAMPUNG BARAT",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 134,
+    "fields": {
+        "city_name": "PESISIR BARAT",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 135,
+    "fields": {
+        "city_name": "PESAWARAN",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 136,
+    "fields": {
+        "city_name": "BANDAR LAMPUNG",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 137,
+    "fields": {
+        "city_name": "METRO",
+        "prov_id": 8
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 138,
+    "fields": {
+        "city_name": "BELITUNG",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 139,
+    "fields": {
+        "city_name": "BELITUNG TIMUR",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 140,
+    "fields": {
+        "city_name": "BANGKA",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 141,
+    "fields": {
+        "city_name": "BANGKA SELATAN",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 142,
+    "fields": {
+        "city_name": "BANGKA BARAT",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 143,
+    "fields": {
+        "city_name": "PANGKAL PINANG",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 144,
+    "fields": {
+        "city_name": "BANGKA TENGAH",
+        "prov_id": 9
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 145,
+    "fields": {
+        "city_name": "KEPULAUAN ANAMBAS",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 146,
+    "fields": {
+        "city_name": "BINTAN",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 147,
+    "fields": {
+        "city_name": "NATUNA",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 148,
+    "fields": {
+        "city_name": "BATAM",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 149,
+    "fields": {
+        "city_name": "TANJUNG PINANG",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 150,
+    "fields": {
+        "city_name": "KARIMUN",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 151,
+    "fields": {
+        "city_name": "LINGGA",
+        "prov_id": 10
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 152,
+    "fields": {
+        "city_name": "JAKARTA UTARA",
+        "prov_id": 11
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 153,
+    "fields": {
+        "city_name": "JAKARTA BARAT",
+        "prov_id": 11
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 154,
+    "fields": {
+        "city_name": "JAKARTA TIMUR",
+        "prov_id": 11
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 155,
+    "fields": {
+        "city_name": "JAKARTA SELATAN",
+        "prov_id": 11
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 156,
+    "fields": {
+        "city_name": "JAKARTA PUSAT",
+        "prov_id": 11
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 157,
+    "fields": {
+        "city_name": "KEPULAUAN SERIBU",
+        "prov_id": 11
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 158,
+    "fields": {
+        "city_name": "DEPOK",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 159,
+    "fields": {
+        "city_name": "KARAWANG",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 160,
+    "fields": {
+        "city_name": "CIREBON",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 161,
+    "fields": {
+        "city_name": "BANDUNG",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 162,
+    "fields": {
+        "city_name": "SUKABUMI",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 163,
+    "fields": {
+        "city_name": "SUMEDANG",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 164,
+    "fields": {
+        "city_name": "INDRAMAYU",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 165,
+    "fields": {
+        "city_name": "MAJALENGKA",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 166,
+    "fields": {
+        "city_name": "KUNINGAN",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 167,
+    "fields": {
+        "city_name": "TASIKMALAYA",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 168,
+    "fields": {
+        "city_name": "CIAMIS",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 169,
+    "fields": {
+        "city_name": "SUBANG",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 170,
+    "fields": {
+        "city_name": "PURWAKARTA",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 171,
+    "fields": {
+        "city_name": "BOGOR",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 172,
+    "fields": {
+        "city_name": "BEKASI",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 173,
+    "fields": {
+        "city_name": "GARUT",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 174,
+    "fields": {
+        "city_name": "PANGANDARAN",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 175,
+    "fields": {
+        "city_name": "CIANJUR",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 176,
+    "fields": {
+        "city_name": "BANJAR",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 177,
+    "fields": {
+        "city_name": "BANDUNG BARAT",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 178,
+    "fields": {
+        "city_name": "CIMAHI",
+        "prov_id": 12
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 179,
+    "fields": {
+        "city_name": "PURBALINGGA",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 180,
+    "fields": {
+        "city_name": "KEBUMEN",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 181,
+    "fields": {
+        "city_name": "MAGELANG",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 182,
+    "fields": {
+        "city_name": "CILACAP",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 183,
+    "fields": {
+        "city_name": "BATANG",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 184,
+    "fields": {
+        "city_name": "BANJARNEGARA",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 185,
+    "fields": {
+        "city_name": "BLORA",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 186,
+    "fields": {
+        "city_name": "BREBES",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 187,
+    "fields": {
+        "city_name": "BANYUMAS",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 188,
+    "fields": {
+        "city_name": "WONOSOBO",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 189,
+    "fields": {
+        "city_name": "TEGAL",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 190,
+    "fields": {
+        "city_name": "PURWOREJO",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 191,
+    "fields": {
+        "city_name": "PATI",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 192,
+    "fields": {
+        "city_name": "SUKOHARJO",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 193,
+    "fields": {
+        "city_name": "KARANGANYAR",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 194,
+    "fields": {
+        "city_name": "PEKALONGAN",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 195,
+    "fields": {
+        "city_name": "PEMALANG",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 196,
+    "fields": {
+        "city_name": "BOYOLALI",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 197,
+    "fields": {
+        "city_name": "GROBOGAN",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 198,
+    "fields": {
+        "city_name": "SEMARANG",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 199,
+    "fields": {
+        "city_name": "DEMAK",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 200,
+    "fields": {
+        "city_name": "REMBANG",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 201,
+    "fields": {
+        "city_name": "KLATEN",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 202,
+    "fields": {
+        "city_name": "KUDUS",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 203,
+    "fields": {
+        "city_name": "TEMANGGUNG",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 204,
+    "fields": {
+        "city_name": "SRAGEN",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 205,
+    "fields": {
+        "city_name": "JEPARA",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 206,
+    "fields": {
+        "city_name": "WONOGIRI",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 207,
+    "fields": {
+        "city_name": "KENDAL",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 208,
+    "fields": {
+        "city_name": "SURAKARTA (SOLO)",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 209,
+    "fields": {
+        "city_name": "SALATIGA",
+        "prov_id": 13
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 210,
+    "fields": {
+        "city_name": "SLEMAN",
+        "prov_id": 14
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 211,
+    "fields": {
+        "city_name": "BANTUL",
+        "prov_id": 14
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 212,
+    "fields": {
+        "city_name": "YOGYAKARTA",
+        "prov_id": 14
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 213,
+    "fields": {
+        "city_name": "GUNUNG KIDUL",
+        "prov_id": 14
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 214,
+    "fields": {
+        "city_name": "KULON PROGO",
+        "prov_id": 14
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 215,
+    "fields": {
+        "city_name": "GRESIK",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 216,
+    "fields": {
+        "city_name": "KEDIRI",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 217,
+    "fields": {
+        "city_name": "SAMPANG",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 218,
+    "fields": {
+        "city_name": "BANGKALAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 219,
+    "fields": {
+        "city_name": "SUMENEP",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 220,
+    "fields": {
+        "city_name": "SITUBONDO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 221,
+    "fields": {
+        "city_name": "SURABAYA",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 222,
+    "fields": {
+        "city_name": "JEMBER",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 223,
+    "fields": {
+        "city_name": "PAMEKASAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 224,
+    "fields": {
+        "city_name": "JOMBANG",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 225,
+    "fields": {
+        "city_name": "PROBOLINGGO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 226,
+    "fields": {
+        "city_name": "BANYUWANGI",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 227,
+    "fields": {
+        "city_name": "PASURUAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 228,
+    "fields": {
+        "city_name": "BOJONEGORO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 229,
+    "fields": {
+        "city_name": "BONDOWOSO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 230,
+    "fields": {
+        "city_name": "MAGETAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 231,
+    "fields": {
+        "city_name": "LUMAJANG",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 232,
+    "fields": {
+        "city_name": "MALANG",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 233,
+    "fields": {
+        "city_name": "BLITAR",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 234,
+    "fields": {
+        "city_name": "SIDOARJO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 235,
+    "fields": {
+        "city_name": "LAMONGAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 236,
+    "fields": {
+        "city_name": "PACITAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 237,
+    "fields": {
+        "city_name": "TULUNGAGUNG",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 238,
+    "fields": {
+        "city_name": "MOJOKERTO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 239,
+    "fields": {
+        "city_name": "MADIUN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 240,
+    "fields": {
+        "city_name": "PONOROGO",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 241,
+    "fields": {
+        "city_name": "NGAWI",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 242,
+    "fields": {
+        "city_name": "NGANJUK",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 243,
+    "fields": {
+        "city_name": "TUBAN",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 244,
+    "fields": {
+        "city_name": "TRENGGALEK",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 245,
+    "fields": {
+        "city_name": "BATU",
+        "prov_id": 15
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 246,
+    "fields": {
+        "city_name": "TANGERANG",
+        "prov_id": 16
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 247,
+    "fields": {
+        "city_name": "SERANG",
+        "prov_id": 16
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 248,
+    "fields": {
+        "city_name": "PANDEGLANG",
+        "prov_id": 16
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 249,
+    "fields": {
+        "city_name": "LEBAK",
+        "prov_id": 16
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 250,
+    "fields": {
+        "city_name": "TANGERANG SELATAN",
+        "prov_id": 16
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 251,
+    "fields": {
+        "city_name": "CILEGON",
+        "prov_id": 16
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 252,
+    "fields": {
+        "city_name": "KLUNGKUNG",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 253,
+    "fields": {
+        "city_name": "KARANGASEM",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 254,
+    "fields": {
+        "city_name": "BANGLI",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 255,
+    "fields": {
+        "city_name": "TABANAN",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 256,
+    "fields": {
+        "city_name": "GIANYAR",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 257,
+    "fields": {
+        "city_name": "BADUNG",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 258,
+    "fields": {
+        "city_name": "JEMBRANA",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 259,
+    "fields": {
+        "city_name": "BULELENG",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 260,
+    "fields": {
+        "city_name": "DENPASAR",
+        "prov_id": 17
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 261,
+    "fields": {
+        "city_name": "MATARAM",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 262,
+    "fields": {
+        "city_name": "DOMPU",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 263,
+    "fields": {
+        "city_name": "SUMBAWA BARAT",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 264,
+    "fields": {
+        "city_name": "SUMBAWA",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 265,
+    "fields": {
+        "city_name": "LOMBOK TENGAH",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 266,
+    "fields": {
+        "city_name": "LOMBOK TIMUR",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 267,
+    "fields": {
+        "city_name": "LOMBOK UTARA",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 268,
+    "fields": {
+        "city_name": "LOMBOK BARAT",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 269,
+    "fields": {
+        "city_name": "BIMA",
+        "prov_id": 18
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 270,
+    "fields": {
+        "city_name": "TIMOR TENGAH SELATAN",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 271,
+    "fields": {
+        "city_name": "FLORES TIMUR",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 272,
+    "fields": {
+        "city_name": "ALOR",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 273,
+    "fields": {
+        "city_name": "ENDE",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 274,
+    "fields": {
+        "city_name": "NAGEKEO",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 275,
+    "fields": {
+        "city_name": "KUPANG",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 276,
+    "fields": {
+        "city_name": "SIKKA",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 277,
+    "fields": {
+        "city_name": "NGADA",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 278,
+    "fields": {
+        "city_name": "TIMOR TENGAH UTARA",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 279,
+    "fields": {
+        "city_name": "BELU",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 280,
+    "fields": {
+        "city_name": "LEMBATA",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 281,
+    "fields": {
+        "city_name": "SUMBA BARAT DAYA",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 282,
+    "fields": {
+        "city_name": "SUMBA BARAT",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 283,
+    "fields": {
+        "city_name": "SUMBA TENGAH",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 284,
+    "fields": {
+        "city_name": "SUMBA TIMUR",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 285,
+    "fields": {
+        "city_name": "ROTE NDAO",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 286,
+    "fields": {
+        "city_name": "MANGGARAI TIMUR",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 287,
+    "fields": {
+        "city_name": "MANGGARAI",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 288,
+    "fields": {
+        "city_name": "SABU RAIJUA",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 289,
+    "fields": {
+        "city_name": "MANGGARAI BARAT",
+        "prov_id": 19
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 290,
+    "fields": {
+        "city_name": "LANDAK",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 291,
+    "fields": {
+        "city_name": "KETAPANG",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 292,
+    "fields": {
+        "city_name": "SINTANG",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 293,
+    "fields": {
+        "city_name": "KUBU RAYA",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 294,
+    "fields": {
+        "city_name": "PONTIANAK",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 295,
+    "fields": {
+        "city_name": "KAYONG UTARA",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 296,
+    "fields": {
+        "city_name": "BENGKAYANG",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 297,
+    "fields": {
+        "city_name": "KAPUAS HULU",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 298,
+    "fields": {
+        "city_name": "SAMBAS",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 299,
+    "fields": {
+        "city_name": "SINGKAWANG",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 300,
+    "fields": {
+        "city_name": "SANGGAU",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 301,
+    "fields": {
+        "city_name": "MELAWI",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 302,
+    "fields": {
+        "city_name": "SEKADAU",
+        "prov_id": 20
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 303,
+    "fields": {
+        "city_name": "KOTAWARINGIN TIMUR",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 304,
+    "fields": {
+        "city_name": "SUKAMARA",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 305,
+    "fields": {
+        "city_name": "KOTAWARINGIN BARAT",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 306,
+    "fields": {
+        "city_name": "BARITO TIMUR",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 307,
+    "fields": {
+        "city_name": "KAPUAS",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 308,
+    "fields": {
+        "city_name": "PULANG PISAU",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 309,
+    "fields": {
+        "city_name": "LAMANDAU",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 310,
+    "fields": {
+        "city_name": "SERUYAN",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 311,
+    "fields": {
+        "city_name": "KATINGAN",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 312,
+    "fields": {
+        "city_name": "BARITO SELATAN",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 313,
+    "fields": {
+        "city_name": "MURUNG RAYA",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 314,
+    "fields": {
+        "city_name": "BARITO UTARA",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 315,
+    "fields": {
+        "city_name": "GUNUNG MAS",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 316,
+    "fields": {
+        "city_name": "PALANGKA RAYA",
+        "prov_id": 21
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 317,
+    "fields": {
+        "city_name": "TAPIN",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 318,
+    "fields": {
+        "city_name": "BANJAR",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 319,
+    "fields": {
+        "city_name": "HULU SUNGAI TENGAH",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 320,
+    "fields": {
+        "city_name": "TABALONG",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 321,
+    "fields": {
+        "city_name": "HULU SUNGAI UTARA",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 322,
+    "fields": {
+        "city_name": "BALANGAN",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 323,
+    "fields": {
+        "city_name": "TANAH BUMBU",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 324,
+    "fields": {
+        "city_name": "BANJARMASIN",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 325,
+    "fields": {
+        "city_name": "KOTABARU",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 326,
+    "fields": {
+        "city_name": "TANAH LAUT",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 327,
+    "fields": {
+        "city_name": "HULU SUNGAI SELATAN",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 328,
+    "fields": {
+        "city_name": "BARITO KUALA",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 329,
+    "fields": {
+        "city_name": "BANJARBARU",
+        "prov_id": 22
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 330,
+    "fields": {
+        "city_name": "KUTAI BARAT",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 331,
+    "fields": {
+        "city_name": "SAMARINDA",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 332,
+    "fields": {
+        "city_name": "PASER",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 333,
+    "fields": {
+        "city_name": "KUTAI KARTANEGARA",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 334,
+    "fields": {
+        "city_name": "BERAU",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 335,
+    "fields": {
+        "city_name": "PENAJAM PASER UTARA",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 336,
+    "fields": {
+        "city_name": "BONTANG",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 337,
+    "fields": {
+        "city_name": "KUTAI TIMUR",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 338,
+    "fields": {
+        "city_name": "BALIKPAPAN",
+        "prov_id": 23
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 339,
+    "fields": {
+        "city_name": "MALINAU",
+        "prov_id": 24
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 340,
+    "fields": {
+        "city_name": "NUNUKAN",
+        "prov_id": 24
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 341,
+    "fields": {
+        "city_name": "BULUNGAN (BULONGAN)",
+        "prov_id": 24
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 342,
+    "fields": {
+        "city_name": "TANA TIDUNG",
+        "prov_id": 24
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 343,
+    "fields": {
+        "city_name": "TARAKAN",
+        "prov_id": 24
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 344,
+    "fields": {
+        "city_name": "BOLAANG MONGONDOW (BOLMONG)",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 345,
+    "fields": {
+        "city_name": "BOLAANG MONGONDOW SELATAN",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 346,
+    "fields": {
+        "city_name": "MINAHASA SELATAN",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 347,
+    "fields": {
+        "city_name": "BITUNG",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 348,
+    "fields": {
+        "city_name": "MINAHASA",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 349,
+    "fields": {
+        "city_name": "KEPULAUAN SANGIHE",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 350,
+    "fields": {
+        "city_name": "MINAHASA UTARA",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 351,
+    "fields": {
+        "city_name": "KEPULAUAN TALAUD",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 352,
+    "fields": {
+        "city_name": "KEPULAUAN SIAU TAGULANDANG BIARO (SITARO)",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 353,
+    "fields": {
+        "city_name": "MANADO",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 354,
+    "fields": {
+        "city_name": "BOLAANG MONGONDOW UTARA",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 355,
+    "fields": {
+        "city_name": "BOLAANG MONGONDOW TIMUR",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 356,
+    "fields": {
+        "city_name": "MINAHASA TENGGARA",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 357,
+    "fields": {
+        "city_name": "KOTAMOBAGU",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 358,
+    "fields": {
+        "city_name": "TOMOHON",
+        "prov_id": 25
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 359,
+    "fields": {
+        "city_name": "BANGGAI KEPULAUAN",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 360,
+    "fields": {
+        "city_name": "TOLI-TOLI",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 361,
+    "fields": {
+        "city_name": "PARIGI MOUTONG",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 362,
+    "fields": {
+        "city_name": "BUOL",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 363,
+    "fields": {
+        "city_name": "DONGGALA",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 364,
+    "fields": {
+        "city_name": "POSO",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 365,
+    "fields": {
+        "city_name": "MOROWALI",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 366,
+    "fields": {
+        "city_name": "TOJO UNA-UNA",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 367,
+    "fields": {
+        "city_name": "BANGGAI",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 368,
+    "fields": {
+        "city_name": "SIGI",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 369,
+    "fields": {
+        "city_name": "PALU",
+        "prov_id": 26
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 370,
+    "fields": {
+        "city_name": "MAROS",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 371,
+    "fields": {
+        "city_name": "WAJO",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 372,
+    "fields": {
+        "city_name": "BONE",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 373,
+    "fields": {
+        "city_name": "SOPPENG",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 374,
+    "fields": {
+        "city_name": "SIDENRENG RAPPANG / RAPANG",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 375,
+    "fields": {
+        "city_name": "TAKALAR",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 376,
+    "fields": {
+        "city_name": "BARRU",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 377,
+    "fields": {
+        "city_name": "LUWU TIMUR",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 378,
+    "fields": {
+        "city_name": "SINJAI",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 379,
+    "fields": {
+        "city_name": "PANGKAJENE KEPULAUAN",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 380,
+    "fields": {
+        "city_name": "PINRANG",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 381,
+    "fields": {
+        "city_name": "JENEPONTO",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 382,
+    "fields": {
+        "city_name": "PALOPO",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 383,
+    "fields": {
+        "city_name": "TORAJA UTARA",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 384,
+    "fields": {
+        "city_name": "LUWU",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 385,
+    "fields": {
+        "city_name": "BULUKUMBA",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 386,
+    "fields": {
+        "city_name": "MAKASSAR",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 387,
+    "fields": {
+        "city_name": "SELAYAR (KEPULAUAN SELAYAR)",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 388,
+    "fields": {
+        "city_name": "TANA TORAJA",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 389,
+    "fields": {
+        "city_name": "LUWU UTARA",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 390,
+    "fields": {
+        "city_name": "BANTAENG",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 391,
+    "fields": {
+        "city_name": "GOWA",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 392,
+    "fields": {
+        "city_name": "ENREKANG",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 393,
+    "fields": {
+        "city_name": "PAREPARE",
+        "prov_id": 27
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 394,
+    "fields": {
+        "city_name": "KOLAKA",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 395,
+    "fields": {
+        "city_name": "MUNA",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 396,
+    "fields": {
+        "city_name": "KONAWE SELATAN",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 397,
+    "fields": {
+        "city_name": "KENDARI",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 398,
+    "fields": {
+        "city_name": "KONAWE",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 399,
+    "fields": {
+        "city_name": "KONAWE UTARA",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 400,
+    "fields": {
+        "city_name": "KOLAKA UTARA",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 401,
+    "fields": {
+        "city_name": "BUTON",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 402,
+    "fields": {
+        "city_name": "BOMBANA",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 403,
+    "fields": {
+        "city_name": "WAKATOBI",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 404,
+    "fields": {
+        "city_name": "BAU-BAU",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 405,
+    "fields": {
+        "city_name": "BUTON UTARA",
+        "prov_id": 28
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 406,
+    "fields": {
+        "city_name": "GORONTALO UTARA",
+        "prov_id": 29
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 407,
+    "fields": {
+        "city_name": "BONE BOLANGO",
+        "prov_id": 29
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 408,
+    "fields": {
+        "city_name": "GORONTALO",
+        "prov_id": 29
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 409,
+    "fields": {
+        "city_name": "BOALEMO",
+        "prov_id": 29
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 410,
+    "fields": {
+        "city_name": "POHUWATO",
+        "prov_id": 29
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 411,
+    "fields": {
+        "city_name": "MAJENE",
+        "prov_id": 30
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 412,
+    "fields": {
+        "city_name": "MAMUJU",
+        "prov_id": 30
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 413,
+    "fields": {
+        "city_name": "MAMUJU UTARA",
+        "prov_id": 30
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 414,
+    "fields": {
+        "city_name": "POLEWALI MANDAR",
+        "prov_id": 30
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 415,
+    "fields": {
+        "city_name": "MAMASA",
+        "prov_id": 30
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 416,
+    "fields": {
+        "city_name": "MALUKU TENGGARA BARAT",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 417,
+    "fields": {
+        "city_name": "MALUKU TENGGARA",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 418,
+    "fields": {
+        "city_name": "SERAM BAGIAN BARAT",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 419,
+    "fields": {
+        "city_name": "MALUKU TENGAH",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 420,
+    "fields": {
+        "city_name": "SERAM BAGIAN TIMUR",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 421,
+    "fields": {
+        "city_name": "MALUKU BARAT DAYA",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 422,
+    "fields": {
+        "city_name": "AMBON",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 423,
+    "fields": {
+        "city_name": "BURU",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 424,
+    "fields": {
+        "city_name": "BURU SELATAN",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 425,
+    "fields": {
+        "city_name": "KEPULAUAN ARU",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 426,
+    "fields": {
+        "city_name": "TUAL",
+        "prov_id": 31
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 427,
+    "fields": {
+        "city_name": "HALMAHERA BARAT",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 428,
+    "fields": {
+        "city_name": "TIDORE KEPULAUAN",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 429,
+    "fields": {
+        "city_name": "TERNATE",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 430,
+    "fields": {
+        "city_name": "PULAU MOROTAI",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 431,
+    "fields": {
+        "city_name": "KEPULAUAN SULA",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 432,
+    "fields": {
+        "city_name": "HALMAHERA SELATAN",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 433,
+    "fields": {
+        "city_name": "HALMAHERA TENGAH",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 434,
+    "fields": {
+        "city_name": "HALMAHERA TIMUR",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 435,
+    "fields": {
+        "city_name": "HALMAHERA UTARA",
+        "prov_id": 32
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 436,
+    "fields": {
+        "city_name": "YALIMO",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 437,
+    "fields": {
+        "city_name": "DOGIYAI",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 438,
+    "fields": {
+        "city_name": "ASMAT",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 439,
+    "fields": {
+        "city_name": "JAYAPURA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 440,
+    "fields": {
+        "city_name": "PANIAI",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 441,
+    "fields": {
+        "city_name": "MAPPI",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 442,
+    "fields": {
+        "city_name": "TOLIKARA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 443,
+    "fields": {
+        "city_name": "PUNCAK JAYA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 444,
+    "fields": {
+        "city_name": "PEGUNUNGAN BINTANG",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 445,
+    "fields": {
+        "city_name": "JAYAWIJAYA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 446,
+    "fields": {
+        "city_name": "LANNY JAYA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 447,
+    "fields": {
+        "city_name": "NDUGA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 448,
+    "fields": {
+        "city_name": "BIAK NUMFOR",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 449,
+    "fields": {
+        "city_name": "KEPULAUAN YAPEN (YAPEN WAROPEN)",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 450,
+    "fields": {
+        "city_name": "PUNCAK",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 451,
+    "fields": {
+        "city_name": "INTAN JAYA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 452,
+    "fields": {
+        "city_name": "WAROPEN",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 453,
+    "fields": {
+        "city_name": "NABIRE",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 454,
+    "fields": {
+        "city_name": "MIMIKA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 455,
+    "fields": {
+        "city_name": "BOVEN DIGOEL",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 456,
+    "fields": {
+        "city_name": "YAHUKIMO",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 457,
+    "fields": {
+        "city_name": "SARMI",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 458,
+    "fields": {
+        "city_name": "MERAUKE",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 459,
+    "fields": {
+        "city_name": "DEIYAI (DELIYAI)",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 460,
+    "fields": {
+        "city_name": "KEEROM",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 461,
+    "fields": {
+        "city_name": "SUPIORI",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 462,
+    "fields": {
+        "city_name": "MAMBERAMO RAYA",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 463,
+    "fields": {
+        "city_name": "MAMBERAMO TENGAH",
+        "prov_id": 33
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 464,
+    "fields": {
+        "city_name": "RAJA AMPAT",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 465,
+    "fields": {
+        "city_name": "MANOKWARI SELATAN",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 466,
+    "fields": {
+        "city_name": "MANOKWARI",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 467,
+    "fields": {
+        "city_name": "KAIMANA",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 468,
+    "fields": {
+        "city_name": "MAYBRAT",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 469,
+    "fields": {
+        "city_name": "SORONG SELATAN",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 470,
+    "fields": {
+        "city_name": "FAKFAK",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 471,
+    "fields": {
+        "city_name": "PEGUNUNGAN ARFAK",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 472,
+    "fields": {
+        "city_name": "TAMBRAUW",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 473,
+    "fields": {
+        "city_name": "SORONG",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 474,
+    "fields": {
+        "city_name": "TELUK WONDAMA",
+        "prov_id": 34
+    }
+},
+{
+    "model": "core.cities",
+    "pk": 475,
+    "fields": {
+        "city_name": "TELUK BINTUNI",
+        "prov_id": 34
+    }
+}
+]

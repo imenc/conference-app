@@ -1,0 +1,308 @@
+[
+{
+    "model": "core.provinces",
+    "pk": 1,
+    "fields": {
+        "prov_name": "ACEH",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 2,
+    "fields": {
+        "prov_name": "SUMATERA UTARA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 3,
+    "fields": {
+        "prov_name": "SUMATERA BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 4,
+    "fields": {
+        "prov_name": "RIAU",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 5,
+    "fields": {
+        "prov_name": "JAMBI",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 6,
+    "fields": {
+        "prov_name": "SUMATERA SELATAN",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 7,
+    "fields": {
+        "prov_name": "BENGKULU",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 8,
+    "fields": {
+        "prov_name": "LAMPUNG",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 9,
+    "fields": {
+        "prov_name": "KEPULAUAN BANGKA BELITUNG",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 10,
+    "fields": {
+        "prov_name": "KEPULAUAN RIAU",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 11,
+    "fields": {
+        "prov_name": "DKI JAKARTA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 12,
+    "fields": {
+        "prov_name": "JAWA BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 13,
+    "fields": {
+        "prov_name": "JAWA TENGAH",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 14,
+    "fields": {
+        "prov_name": "DI YOGYAKARTA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 15,
+    "fields": {
+        "prov_name": "JAWA TIMUR",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 16,
+    "fields": {
+        "prov_name": "BANTEN",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 17,
+    "fields": {
+        "prov_name": "BALI",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 18,
+    "fields": {
+        "prov_name": "NUSA TENGGARA BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 19,
+    "fields": {
+        "prov_name": "NUSA TENGGARA TIMUR",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 20,
+    "fields": {
+        "prov_name": "KALIMANTAN BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 21,
+    "fields": {
+        "prov_name": "KALIMANTAN TENGAH",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 22,
+    "fields": {
+        "prov_name": "KALIMANTAN SELATAN",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 23,
+    "fields": {
+        "prov_name": "KALIMANTAN TIMUR",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 24,
+    "fields": {
+        "prov_name": "KALIMANTAN UTARA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 25,
+    "fields": {
+        "prov_name": "SULAWESI UTARA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 26,
+    "fields": {
+        "prov_name": "SULAWESI TENGAH",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 27,
+    "fields": {
+        "prov_name": "SULAWESI SELATAN",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 28,
+    "fields": {
+        "prov_name": "SULAWESI TENGGARA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 29,
+    "fields": {
+        "prov_name": "GORONTALO",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 30,
+    "fields": {
+        "prov_name": "SULAWESI BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 31,
+    "fields": {
+        "prov_name": "MALUKU",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 32,
+    "fields": {
+        "prov_name": "MALUKU UTARA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 33,
+    "fields": {
+        "prov_name": "PAPUA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 34,
+    "fields": {
+        "prov_name": "PAPUA BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+}
+]
