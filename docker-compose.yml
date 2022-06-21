@@ -13,6 +13,7 @@ services:
     command: >
       sh -c "python manage.py migrate &&
              python manage.py loaddata fixtures/core_user.json --app core.User &&
+             python manage.py loaddata fixtures/auth_group.json --app auth.Group &&
              python manage.py loaddata fixtures/core_provinces.json --app core.Provinces &&
              python manage.py loaddata fixtures/core_cities.json --app core.Cities &&
              python manage.py loaddata fixtures/core_districts.json --app core.Districts &&
