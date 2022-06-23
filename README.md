@@ -46,10 +46,13 @@ docker-compose down
 
 ## Python console command for creating fixtures
 ```python
+./manage.py dumpdata auth.Group --indent 4 > fixtures/auth_group.json
+./manage.py dumpdata core.User --indent 4 > fix
 ./manage.py dumpdata core.Provinces --indent 4 > fixtures/core_provinces.json
 ./manage.py dumpdata core.Cities --indent 4 > fixtures/core_cities.json  
 ./manage.py dumpdata core.Districts --indent 4 > fixtures/core_districts.json
 ./manage.py dumpdata core.Subdistricts --indent 4 > fixtures/core_sub_districts.json
+tures/core_user.json
 ```
 
 ## Docker compose command for app migration related
@@ -60,6 +63,8 @@ docker-compose run --rm app sh -c "python manage.py migrate"
 
 ## Docker compose command for load data fixtures
 ```shell
+docker-compose run --rm app sh -c "python manage.py loaddata fixtures/auth_group.json --app auth.Group"
+docker-compose run --rm app sh -c "python manage.py loaddata fixtures/core_user.json --app core.User"
 docker-compose run --rm app sh -c "python manage.py loaddata fixtures/core_provinces.json --app core.Provinces"
 docker-compose run --rm app sh -c "python manage.py loaddata fixtures/core_cities.json --app core.Cities"
 docker-compose run --rm app sh -c "python manage.py loaddata fixtures/core_districts.json --app core.Districts"
