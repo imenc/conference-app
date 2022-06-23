@@ -12,9 +12,9 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 import os
 
-# # Uncoment this to run natively without docker
-# from dotenv import load_dotenv, find_dotenv     # + dotenv
-# load_dotenv(find_dotenv())                      # + dotenv
+# Uncoment this to run natively without docker
+from dotenv import load_dotenv, find_dotenv     # + dotenv
+load_dotenv(find_dotenv())                      # + dotenv
 
 from pathlib import Path
 from datetime import timedelta
