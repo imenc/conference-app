@@ -24,7 +24,7 @@
         "email": "user@conference.com",
         "name": "User Dummy",
         "is_active": true,
-        "is_staff": false,
+        "is_staff": true,
         "groups": [
             1,
             2,
