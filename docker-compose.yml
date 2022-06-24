@@ -18,6 +18,8 @@ services:
              python manage.py loaddata fixtures/core_cities.json --app core.Cities &&
              python manage.py loaddata fixtures/core_districts.json --app core.Districts &&
              python manage.py loaddata fixtures/core_sub_districts.json --app core.Subdistricts &&
+             python manage.py loaddata fixtures/blog_article_cat.json --app blog.ArticleCat &&
+             python manage.py loaddata fixtures/blog_article.json --app blog.Article &&
              python manage.py runserver 0.0.0.0:8000"
     environment:
 #      - DB_HOST=host.docker.internal
