@@ -14,10 +14,10 @@ services:
       sh -c "python manage.py migrate &&
              python manage.py loaddata fixtures/auth_group.json --app auth.Group &&
              python manage.py loaddata fixtures/core_user.json --app core.User &&
-             python manage.py loaddata fixtures/core_provinces.json --app core.Provinces &&
-             python manage.py loaddata fixtures/core_cities.json --app core.Cities &&
-             python manage.py loaddata fixtures/core_districts.json --app core.Districts &&
-             python manage.py loaddata fixtures/core_sub_districts.json --app core.Subdistricts &&
+             python manage.py loaddata fixtures/core_provinces_trimmed.json --app core.Provinces &&
+             python manage.py loaddata fixtures/core_cities_trimmed.json --app core.Cities &&
+             python manage.py loaddata fixtures/core_districts_trimmed.json --app core.Districts &&
+             python manage.py loaddata fixtures/core_sub_districts_trimmed.json --app core.Subdistricts &&
              python manage.py loaddata fixtures/blog_article_cat.json --app blog.ArticleCat &&
              python manage.py loaddata fixtures/blog_article.json --app blog.Article &&
              python manage.py runserver 0.0.0.0:8000"

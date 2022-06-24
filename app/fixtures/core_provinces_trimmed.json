@@ -1,0 +1,47 @@
+[
+{
+    "model": "core.provinces",
+    "pk": 11,
+    "fields": {
+        "prov_name": "DKI JAKARTA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 12,
+    "fields": {
+        "prov_name": "JAWA BARAT",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 13,
+    "fields": {
+        "prov_name": "JAWA TENGAH",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 14,
+    "fields": {
+        "prov_name": "DI YOGYAKARTA",
+        "locationid": 1,
+        "status": 1
+    }
+},
+{
+    "model": "core.provinces",
+    "pk": 15,
+    "fields": {
+        "prov_name": "JAWA TIMUR",
+        "locationid": 1,
+        "status": 1
+    }
+}
+]
