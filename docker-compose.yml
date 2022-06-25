@@ -23,7 +23,6 @@ services:
              python manage.py runserver 0.0.0.0:8000"
     environment:
 #      - DB_HOST=host.docker.internal
-#      - DB_HOST=202.91.10.67
       - DB_HOST=db
       - DB_NAME=conference
       - DB_USER=root
@@ -54,6 +53,17 @@ services:
       - '3066:3066'
     expose:
       - '3066'
+
+  fe:
+    build:
+      context: ./app/fe
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./app/fe:/app/fe
+    depends_on:
+      - app
+
 
 volumes:
   dev-db-data:
