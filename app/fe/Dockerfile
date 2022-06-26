@@ -14,8 +14,8 @@ RUN npm install
 COPY . /app/fe
 
 # Building app
-RUN npm run build
+# RUN yarn build
 EXPOSE 3000
 
 # Running the app
-CMD "npm" "start"
+CMD "yarn" "dev"
