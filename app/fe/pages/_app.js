@@ -1,12 +1,12 @@
-import 'bootstrap/dist/css/bootstrap.css'; // Add this line
+import 'bootstrap/dist/css/bootstrap.css';          // + Bootstrap
 import '../styles/globals.css'
-import { useEffect } from "react";              // Add this line
+import { useEffect } from "react";                  // + Bootstrap
 
 
 
 function MyApp({ Component, pageProps }) {
     useEffect(() => {
-        import("bootstrap/dist/js/bootstrap");  // Add this line
+        import("bootstrap/dist/js/bootstrap");      // + Bootstrap
     }, []);
     return <Component {...pageProps} />
 }
