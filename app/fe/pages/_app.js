@@ -7,6 +7,7 @@ import { useEffect } from "react";                  // + Bootstrap
 function MyApp({ Component, pageProps }) {
     useEffect(() => {
         import("bootstrap/dist/js/bootstrap");      // + Bootstrap
+        import("./scripts")                         // + Custom js scripts
     }, []);
     return <Component {...pageProps} />
 }
