@@ -2,7 +2,8 @@ import axios from "axios";
 import { 
     HOME_LIST_REQUEST, 
     HOME_LIST_SUCCESS, 
-    HOME_LIST_FAIL 
+    HOME_LIST_FAIL,
+    CLEAR_ERRORS
 } from "../constants/homeConstants";
 
 export const listHomes = () => async (dispatch) => {
@@ -22,5 +23,12 @@ export const listHomes = () => async (dispatch) => {
                 : error.message,
         })
     }
+}
+
+// Clear Errors
+export const clearErrors = () => async (dispatch) => {
+    dispatch({
+        type: CLEAR_ERRORS
+    })
 }
 

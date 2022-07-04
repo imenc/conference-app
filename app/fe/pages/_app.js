@@ -2,10 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css';          // + Bootstrap
 import '../styles/globals.css'
 import { useEffect } from "react";                  // + Bootstrap
 import Layout from '../components/layout/layout';
-import { wrapper, store } from '../store/store';
-import { Provider } from 'react-redux';
-
-
+import { wrapper } from '../redux/store';
 
 function MyApp({ Component, pageProps }) {
     useEffect(() => {
@@ -14,11 +11,7 @@ function MyApp({ Component, pageProps }) {
     }, []);
     
     return (
-        <Provider store={store}>
-            <Layout>
-                <Component {...pageProps} />
-            </Layout>
-        </Provider>
+        <Component {...pageProps} />
     );
 }
 

@@ -1,17 +1,14 @@
 import HomeList from '../components/home/home-list';
+import Layout from '../components/layout/layout';
 import { getAllHomes } from '../dummy-data'
-import Footer from '../components/layout/footer';
 
-function HomePage() {
+function Index() {
     const allHomes = getAllHomes();
     return(        
-        <div>
-            <div>
-                <HomeList items={allHomes} />
-            </div>
-            <Footer></Footer>            
-        </div>
+        <Layout>
+            <HomeList items={allHomes} />
+        </Layout>
     );
 }
 
-export default HomePage;
+export default Index;

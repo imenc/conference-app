@@ -1,9 +1,8 @@
 import Link from "next/link";
 
-function MainNavigation() {
+function Header() {
     return(
         <header>
-           {/* Navigation */}
            <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
                 <div className="container px-4">
                     <a className="navbar-brand" href="#page-top">Start Bootstrap</a>
@@ -22,4 +21,4 @@ function MainNavigation() {
 
 }
 
-export default MainNavigation;
+export default Header;
