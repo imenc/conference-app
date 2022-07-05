@@ -11316,3 +11316,7 @@ section {
   padding-top: 9rem;
   padding-bottom: 9rem;
 }
+
+.card-img-top {
+    border-radius: 0.8rem;
+  }

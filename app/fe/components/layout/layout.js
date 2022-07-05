@@ -8,7 +8,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 
-const Layout = ({ children, title = 'Book Best Hotels for your Holiday' }) => {
+const Layout = ({ children, title = 'Conference Application' }) => {
     return(
         <div>
             <Head>
@@ -20,7 +20,7 @@ const Layout = ({ children, title = 'Book Best Hotels for your Holiday' }) => {
             <Header />
             <ToastContainer position="bottom-right" />
             {children}
-            <Footer /> test
+            <Footer />
 
         </div>
     );
