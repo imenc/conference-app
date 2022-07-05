@@ -1,11 +1,11 @@
 import HomeItem from "./home-item"
 
 function HomeList(props) {
-    const { items } = props;    // Object destructuring
+    const { homes } = props;    // Object destructuring
 
     return(
         <ul>
-            { items.map((home) => (
+            { homes.map((home) => (
                 <HomeItem 
                     key={home.id} 
                     id={home.id} 

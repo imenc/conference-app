@@ -1,14 +1,17 @@
-import HomeList from '../components/home/home-list';
+import Home from '../components/Home';
 import Layout from '../components/layout/layout';
-import { getAllHomes } from '../dummy-data'
 
-function Index() {
-    const allHomes = getAllHomes();
+import { getAllHomes } from '../redux/actions/homeActions';
+import { wrapper } from '../redux/store';
+
+export default function Index() {
     return(        
         <Layout>
-            <HomeList items={allHomes} />
+            <Home />
         </Layout>
     );
 }
 
-export default Index;
+export const getServerSideProps = wrapper.getServerSideProps(async ({ store }) => {
+    await store.dispatch(getAllHomes())
+})

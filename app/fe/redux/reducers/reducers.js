@@ -1,8 +1,10 @@
 import { combineReducers } from "redux";
-import { homeListReducer } from './homeReducers';
+
+import { homeListReducer, allHomesReducer } from './homeReducers';
 
 const reducer = combineReducers({
-    homeList: homeListReducer
+    homeList: homeListReducer,
+    allHomes: allHomesReducer
 });
 
 export default reducer;
