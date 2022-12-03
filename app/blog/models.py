@@ -1,9 +1,12 @@
 from django.db import models
 from django.contrib.auth import get_user_model
+from app.models import AbstractModel;
+from hashid_field import HashidAutoField
 
 
 class ArticleCat(models.Model):
     """Article Categories Object"""
+    id = HashidAutoField(primary_key=True)
     title = models.CharField(max_length=200)
     created_at = models.DateTimeField(auto_now_add=True)
 
@@ -19,6 +22,7 @@ class ArticleCat(models.Model):
 
 class Article(models.Model):
     """Article Object"""
+    id = HashidAutoField(primary_key=True)
     user = models.ForeignKey(get_user_model(), on_delete=models.CASCADE,
                              null=True, blank=True)
     title = models.CharField(max_length=200, blank=False, null=False)

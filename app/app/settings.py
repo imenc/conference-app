@@ -145,9 +145,14 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+# DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+DEFAULT_AUTO_FIELD = 'hashid_field.HashidAutoField'
 
 AUTH_USER_MODEL = 'core.User'
+
+HASHID_FIELD_SALT = "%3kqz8jfb1dyf*1*nt=5+18!-dei@c*!l(h7lu(v5fcuh*qzc)"
+HASHID_FIELD_ALLOW_INT_LOOKUP = True
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
