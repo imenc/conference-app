@@ -19,6 +19,7 @@ class ArticleSerializer(serializers.ModelSerializer):
     """Serializer for Articles"""
     id = HashidSerializerCharField(source_field='blog.Article.id')
     article_cat = HashidSerializerCharField(source_field='blog.ArticleCat.id')
+
     class Meta:
         model = Article
         fields = '__all__'
