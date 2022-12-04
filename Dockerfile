@@ -15,7 +15,7 @@ RUN python -m venv /py && \
     apk add --update --no-cache mariadb-connector-c-dev jpeg-dev nodejs npm && \
     apk add --update --no-cache --virtual .tmp-build-deps \
         build-base musl-dev zlib zlib-dev linux-headers && \
-    /py/bin/pip install -r /tmp/requirements.txt && \
+    /py/bin/pip install --use-pep517 -r /tmp/requirements.txt && \
     if [ $DEV = "true" ]; \
         then /py/bin/pip install -r /tmp/requirements.dev.txt ; \
     fi && \
